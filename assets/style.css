@@ -4,10 +4,17 @@
 }
 .unordered-list {
     display: flex;
-    justify-content: center; 
+    list-style-type: none;
+    
 }
 li {
     display: flex;
-    justify-content: space-between;
-    
+    padding: 1em; 
+}
+.let {
+    margin-top: 2em;
+}
+.talk {
+    border: 0.1em solid;
+    padding: 0.5rem;
 }
