@@ -1,0 +1,13 @@
+.head {
+    display: flex;
+    justify-content: space-around;
+}
+.unordered-list {
+    display: flex;
+    justify-content: center; 
+}
+li {
+    display: flex;
+    justify-content: space-between;
+    
+}
